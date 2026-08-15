@@ -1,6 +1,6 @@
 # zfolean4
 
-`zfolean4` is a Lean 4 port of a deep embedding of first-order set theory. It provides
+`zfolean4` is an AI-assisted Lean 4 port of a deep embedding of first-order set theory. It provides
 syntax with de Bruijn indices, lifting and substitution operations, and an intuitionistic
 natural-deduction proof calculus with equality.
 
